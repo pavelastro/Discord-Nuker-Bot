@@ -1,0 +1,22 @@
+---------------IMPORTANT---------------
+
+-->READ User Agreement.txt before proceeding!
+
+---------------HOW TO USE---------------
+-> Open config.json (You can use any text editor such as Notepad to open it)
+-> You will see 3 variables: count, prefix, token
+-> Count is the number of times the bot will run a command/spam it. (e.g.: If count = 2, bot will create 2 text channels when I run .textchannel (. is my prefix))
+-> Prefix is the prefix you want to use for your bot
+-> Token is the bot token you want to use. You should create a discord application in "https://discord.com/developers/applications" and then go to "Bot" section
+-> Then, click on "Add Bot"
+-> Now you will see your bot. Select "Copy Token" and paste it in the config.json file
+-> You can invite the bot to your server by going to "https://discordapi.com/permissions.html#2146958847"
+-> Insert your bot's client ID (Client ID of your bot will be in the General Information tab)
+-> Copy the link and paste it in a new browser tab
+-> Choose the server
+-> Complete the Captcha
+-> The bot would've entered the server. Now, open nuker.bat
+
+--> ENJOY NUKING!
+
+-> You can get the list of available commands by using (Prefix)help
